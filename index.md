@@ -3,7 +3,7 @@ layout: default
 ---
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[4BI](./4BI.md)
+[4BI](./4bi.md)
 
 [Es Python](/es_python.md)
 
