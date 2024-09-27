@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+> 👍 Success
+>
+>Non ho mai insegnato nulla ai miei studenti; ho solo cercato di metterli nelle condizioni migliori per imparare - Albert Einstein
 
-[4BI](./4bi.md)
 
-[5AI](./5ai.md)
-
-[5CI](./5ci.md)
-
+[4BI](./4bi.md){: .btn}
+[4BI](./4bi.md){: .btn}
 [4BI](./4bi.md){: .btn}
 
 [Es Python](/es_python.md)
