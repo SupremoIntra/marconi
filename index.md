@@ -5,6 +5,6 @@ layout: default
 
 [Es Python](/es_python.md)
 
-👍 Success
+>
 
-Non ho mai insegnato nulla ai miei studenti; ho solo cercato di metterli nelle condizioni migliori per imparare - Albert Einstein
+>Non ho mai insegnato nulla ai miei studenti; ho solo cercato di metterli nelle condizioni migliori per imparare - Albert Einstein
