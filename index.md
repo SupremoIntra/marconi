@@ -5,6 +5,12 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [4BI](./4bi.md)
 
+[5AI](./5ai.md)
+
+[5CI](./5ci.md)
+
+[4BI](./4bi.md){: .btn}
+
 [Es Python](/es_python.md)
 
 [pkt IOT](/pkt_iot.pka)
