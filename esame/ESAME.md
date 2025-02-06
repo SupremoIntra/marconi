@@ -5,7 +5,13 @@ layout: default
 
 >VI LASCIO DEL MATERIALE PER L'ESAME, SCRIVETEMI PER DUBBI O PER AGGIUNGERE ALTRO
 
-[EserciziSQL_11](./GIGACHADSQL.pdf){: .btn}  
+
+
+[SoluzioniEsamiPassati](https://fabrizioviscardi.it/esame-di-stato-informatica/){: .btn} 
+[Esercizi SQL JOIN](https://www.w3resource.com/sql-exercises/sql-joins-exercises.php){: .btn} 
+[Esercizi SQL simulatore](https://www.sql-practice.com/){: .btn} 
+
+[EserciziSQL_1](./GIGACHADSQL.pdf){: .btn}  
 [EserciziSQL_2](./sql.zip){: .btn}  
 [EserciziER_1](./esercizi-er.pdf){: .btn}  
 [EserciziER_2](./esercizi-er2.pdf){: .btn}  
