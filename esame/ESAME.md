@@ -3,10 +3,10 @@ layout: default
 ---
 >
 
->VI LASCIO DEL MATERIALE PER L'ESAME, SCRIVETEMI PER DUBBI O PER AGGIUNGERE ALTRO
+>RISORSE E MATERIALE PER L'ESAME, SCRIVETEMI PER DUBBI O PER AGGIUNGERE ALTRO
 
 [NotebookLLM](https://notebooklm.google.com/){: .btn} 
-Strumento per caricare pdf, risorse e utilizzare l'AI google. (*per approfondire scrivetemi*)
+Strumento per carica pdf, risorse e utilizzare l'AI google. (*per approfondire scrivetemi*)
 
 
 
