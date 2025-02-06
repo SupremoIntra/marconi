@@ -1,0 +1,9 @@
+---
+layout: default
+---
+>
+
+>VI LASCIO DEL MATERIALE PER L'ESAME, SCRIVETEMI PER DUBBI O PER AGGIUNGERE ALTRO
+
+[Esercizi1](./GIGACHADSQL.pdf){: .btn}  
+
