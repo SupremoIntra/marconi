@@ -1,4 +1,4 @@
-```
+```markdown
 # Welcome Marconiani!
 ## Manifesto for Free Software and Open Knowledge
 
